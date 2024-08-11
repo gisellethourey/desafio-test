@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --forceExit"
   },
-  "author": "",
+  "author": "Giselle Thourey",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
